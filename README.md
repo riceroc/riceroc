@@ -2,7 +2,7 @@
 
 I'm a Cloud Engineer focusing on Golang, microservices and k8s. 
 
-- 🔭 I’m currently working on all things cloud native
+- 🔭 I’m currently working on all things cloud native.
 - 🌱 I’m currently learning for eternity.
 
 ## 🙊Languages:
